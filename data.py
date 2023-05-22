@@ -1,4 +1,4 @@
-create = {
+order_body = {
     "firstName": "Naruto",
     "lastName": "Uchiha",
     "address": "Konoha, 142 apt.",
